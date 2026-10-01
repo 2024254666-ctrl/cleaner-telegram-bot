@@ -1,0 +1,13 @@
+# Sensitive tokens
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Exported PDFs (optional, keep repo clean)
+exports/
